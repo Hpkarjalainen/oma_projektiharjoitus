@@ -32,4 +32,5 @@ const student = {           //olio nimeltä student, ja sille funktioita
   }
 }; //olio student päättyy
 
+
 module.exports = student;  //koko student objektin exporttaus
