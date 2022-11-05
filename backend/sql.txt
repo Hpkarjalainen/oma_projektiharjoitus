@@ -1,0 +1,3 @@
+CREATE USER 'hannu'@'localhost' 
+IDENTIFIED WITH mysql_native_password BY 'netpass';
+GRANT ALL on oma_projektiharj.* to 'hannu'@'localhost';
