@@ -1,3 +1,4 @@
+//TÄMÄ TOIMII
 const db = require('../database');
 const bcrypt = require('bcryptjs');  //tämä lisättiin salasanan salausta varten
 
